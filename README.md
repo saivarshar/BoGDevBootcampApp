@@ -1,57 +1,31 @@
-# Personal Website Starter Code
+Introduction
+Hello 👋 thank you for showing your interest in Bits of Good! This take home assessment will assess your basic web development skills. The bootcamp generally requires having some knowledge beforehand in HTML/CSS to be successful, so this assessment will serve as a reflection of your ability to work with HTML/CSS.
 
-This is a place for you to start building your personal website!
+We have provided a sample HTML/CSS boilerplate but feel free to customize this repository to your needs or create your own. Because this assessment is very open ended, there are many ways to complete this assessment. Our only rules are:
 
-### Project Requirements
-Your project should:
-- Include one home HTML page that's all about you!
-- Include a navigation bar that is included on all your website's pages.
-- Include one portfolio HTML page to showcase your projects.
-- Have all text, image(s), links, and/or videos on the page contained within appropriate HTML elements.
-- Include alt text for every image in your website.
-- Apply styles to text, image, and navigation bar elements using CSS rules.
-- Use classes and/or IDs to style CSS elements.
+Please use only vanilla HTML, CSS, and Javascript (optional)
+Do not use any libraries or frameworks such as Bootstrap, Jquery, React, etc.
+CSS files can be named anything
+Please make sure to name the file index.html
+Please deploy your completed assignment to GitHub Pages and share the link with us
+To submit your project:
 
-### Extensions
-You can extend your project further by:
-- Customizing the fonts.
-- Adding some fancy CSS styles.
-- Embedding YouTube videos.
-- Adding another page or more content.
+commit your code to GitHub (preferred) or another version control platform
+share a link to your repository in our application
+share a link to your GitHub Pages deployment in our application
+Context
+For this assessment you will introduce yourself to the Bits of Good team by creating a small info page! This page can be formatted and styled however you wish, but it should take the form of a "card". This take home assessment will be a way for us to gauge your knowledge of HTML and CSS.
 
+Basic Requirements
+In your card, include the following information:
 
-### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
-- Ada Lovelace Image on index.html: Alfred Edward Chalon / Public domain 
-- Ada Lovelace Program Image on portfolio.html: Ada Lovelace / Public domain
-- The Analytical Engine portfolio.html: Science Museum London / Science and Society Picture Library / CC BY-SA [https://creativecommons.org/licenses/by-sa/2.0]()
-- Portfolio Header Background Code Image from Pixabay [Image Link](https://pixabay.com/vectors/background-the-background-1086840/)
-
-## Color Scheme
---> darkest blue = #27187E
---> light blue = #AEB8FE
---> blueish white = #D8DEFD
-
----
-
-## File Overview
-
-### ← README.md
-
-That's this file. This is the place to tell people more about what your website does and how you built it. 
-
-### ← index.html
-
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
-
-### ← style.css
-
-CSS files add styling rules to your content like changing colors and fonts. 
-
-### ← script.js
-
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
+Name
+Major
+Year
+Something you are passionate about related to social good
+Where you're from (optional)
+Above and Beyond (Optional)
+Include animations using CSS or Javascript
+Make your card interactive with buttons, text inputs, etc.
+Sample Card
+Sample Card
